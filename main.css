@@ -190,12 +190,35 @@ p{
     text-decoration: none;
 }
 
+.relatedLeft, .relatedRight {
+    flex: 1;
+    
+}
 
+.related {
+    margin-bottom: 100px;
+}
 
+.footer{
+    height: 110px;
+    width: 100%;
+    line-height: 110px;
+}
 
+.footer{
+    width: 80%;
+    margin: auto;
+}
 
+.footerWrapper p{
+    color: #65747e;
+    float: left;
+}
 
-
+.footerWrapper img{
+    margin: 15px;
+    vertical-align: middle;
+}
 
 
 
