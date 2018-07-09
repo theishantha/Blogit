@@ -171,10 +171,24 @@ p{
     padding: 0.1em 2em;
 }
 
-.
+.relatedChild {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
 
+.relatedChild h3 {
+    margin: 0;
+}
 
+.relatedChild p{
+    margin: 0 0 5px 0 ;
+    line-height: 30px;
+}
 
+.relatedChild a {
+    text-decoration: none;
+}
 
 
 
