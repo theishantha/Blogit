@@ -65,10 +65,34 @@ p{
     margin-left: 10px;
 }
 
+.menu p, .search p {
+    color: #65747e;
+    font-size: 26px;
+}
 
+.menu {
+    margin-left: 50px;
+}
 
+.search{
+    margin-right: 50px;
+}
 
+.navIcon {
+    margin-right: 30px;
+}
 
+.imageSection{
+    width: 100%;
+    margin: auto;
+    display: block;
+    height: 800px;
+    background-image: url(images/david-henrichs-399195.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
 
 
 
