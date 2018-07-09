@@ -83,7 +83,7 @@ p{
 }
 
 .imageSection{
-    width: 100%;
+    width: 80%;
     margin: auto;
     display: block;
     height: 800px;
@@ -94,9 +94,35 @@ p{
     position: relative;
 }
 
+.blogPostInfo {
+    position: absolute;
+    bottom: 0;
+}
 
+.imageSectionWrapper h1{
+    color: white;
+    background-color: #1c2329;
+    width: 680px;
+    text-align: center;
+    padding: 0.25em;
+    opacity: 0.97;
+    border-radius: 2px;
+    margin: 0 0 20px -60px;
+}
 
+.info{
+    color: white;
+    background-color: #1C2329;
+    width: 680px;
+    opacity: 0.97;
+    border-radius: 2px;
+    margin: 0 0 40px -30px;
+    padding: 0.25em 0.25em 0.25em 3em;
+}
 
+.info p{
+    margin: 15px 0;
+}
 
 
 
